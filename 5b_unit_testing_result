@@ -1,0 +1,7 @@
+python3 test_emotion_detection.py -v
+test_emotion_detector (__main__.TestEmotionDetector) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.575s
+
+OK
